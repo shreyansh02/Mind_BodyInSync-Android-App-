@@ -33,5 +33,5 @@ It can classify 6 different yoga poses which are divided into 2 sets:
 <img src = "./imgs/yoga_set2.jpeg" width="500px" height = "200px">
 
 ### Dataset Link: https://www.kaggle.com/elysian01/yoga-pose-classification
-### Pretrained Model and Android APK: [Download Link](https://drive.google.com/drive/folders/1I8TAGMQuEHPV8OrmxCArk9-DYF5-aYSv?usp=sharing)
-### Modeling Code: [link](https://github.com/Elysian01/Exercise-And-Yoga-Tracker)
+### Pretrained Model and Android APK: [Download Link](https://drive.google.com/file/d/1Gq0wwfALW7F6c2p1JxecY8mNfP2UAsl7/view?usp=sharing)
+### Modeling Code: [link](https://github.com/shreyansh02/Mind_BodyInSync-Yoga-Classifier)
